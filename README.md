@@ -6,4 +6,4 @@
 因为平时用gitee,所以这边的东西就稍少
 [![bcsyzwqhz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcsyzwqhz)](https://github.com/anuraghazra/github-readme-stats)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsyzwqhz)
