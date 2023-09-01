@@ -7,4 +7,4 @@
 
 [![bcsyzwqhz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcsyzwqhz)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsyzwqhz&hide=batchfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsyzwqhz&hide=batchfile&&layout=compact)
