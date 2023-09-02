@@ -1,5 +1,5 @@
 ## 简体中文
-大家好！我是一个OIer,在-[洛谷](www.luogu.com.cn/users/920477)上有账号
+大家好！我是一个OIer,在-[洛谷](https://www.luogu.com.cn/users/920477)上有账号
 
 ![窝的练习情况](https://api.jerryz.com.cn/practice?id=920477&disable_cache=true)
 
