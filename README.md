@@ -5,6 +5,6 @@
 
 因为平时用gitee,所以这边的东西就稍少
 
-[![bcsyzwqhz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcsyzwqhz&include_all_commits=true&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![bcsyzwqhz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcsyzwqhz&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsyzwqhz&layout=compact&theme=radical&include_all_commits=true&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcsyzwqhz&layout=compact&theme=dark&include_all_commits=true)
